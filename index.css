@@ -1,0 +1,26 @@
+/**
+font-family: 'Patrick Hand SC', cursive;
+font-family: 'Bangers', cursive;
+**/
+.title-row {
+  height: 150px;
+}
+.title {
+  background-color: #00173d;
+  color: #FFFFFF;
+  text-align: center;
+}
+.panel {
+  height: 250px;
+  border: solid 1px black;
+}
+.panel-pic {
+  height: 100%;
+  width: 100%;
+}
+.pic-space {
+  margin-top: 15px;
+}
+.time-card {
+  height: 250px;
+}
